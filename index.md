@@ -1,4 +1,4 @@
 ---
-Matty O Adventure Blog: Welcome to my blog
+Matty O's Adventure Blog: Welcome to my blog
 ---
 
